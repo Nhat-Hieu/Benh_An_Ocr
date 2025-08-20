@@ -1,0 +1,10 @@
+streamlit
+opencv-python-headless
+numpy
+paddleocr
+paddlepaddle
+Pillow
+matplotlib
+vietocr
+torch
+torchvision
